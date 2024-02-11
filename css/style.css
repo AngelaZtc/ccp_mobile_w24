@@ -1,3 +1,4 @@
+
 body{padding: 20px;
   width: 100%;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -10,8 +11,6 @@ left: -1000px;
 .offpage:focus{
 	left: 10px;
 }
-
-
 
 h1{padding: 10px;
 font-size: 2em;
@@ -26,6 +25,7 @@ font-family: 'zen dots', cursive;}
   text-align: center;
   border-bottom: 2px solid rosybrown;
   border-bottom-style: dotted;
+  justify-content: center;
 }
 li:hover{background-color: rgba(242, 195, 195, 0.2);
   border-radius: 10px;

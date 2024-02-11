@@ -24,6 +24,7 @@ h1{padding: 10px;
     text-align: center;
     border-bottom: 2px solid rosybrown;
     border-bottom-style: dotted;
+    justify-content: center;
   }
 
   li:hover{background-color: rgba(242, 195, 195, 0.2);
